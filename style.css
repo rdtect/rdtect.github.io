@@ -2,6 +2,9 @@
 /*
   1. Use a more-intuitive box-sizing model.
 */
+h1{
+margin-top: 2rem;
+}
 *,
 *::before,
 *::after {
